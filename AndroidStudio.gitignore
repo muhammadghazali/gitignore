@@ -1,7 +1,5 @@
 # Files for the Dalvik VM
-/local.properties
 /.idea/libraries
-.DS_Store
 app/app-release.apk
 app/manifest-merger-release-report.txt
 
