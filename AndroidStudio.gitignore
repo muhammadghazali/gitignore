@@ -1,10 +1,7 @@
 # Files for the Dalvik VM
-.gradle
 /local.properties
-/.idea/workspace.xml
 /.idea/libraries
 .DS_Store
-/build
 app/app-release.apk
 app/manifest-merger-release-report.txt
 
@@ -37,7 +34,7 @@ Thumbs.db
 
 # Android Studio
 .idea
-#.idea/workspace.xml - remove # and delete .idea if it better suit your needs.
+idea/workspace.xml - remove # and delete .idea if it better suit your needs.
 .gradle
 build/
 
