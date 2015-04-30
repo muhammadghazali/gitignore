@@ -43,6 +43,6 @@ build/
 .idea/modules.xml
 .idea/vcs.xml
 *~
-upload.sh
-.upload.sh
+
+# certificate files
 *.keystore
