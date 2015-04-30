@@ -2,6 +2,7 @@
 /.idea/libraries
 app/app-release.apk
 app/manifest-merger-release-report.txt
+app/build/
 
 #built application files
 *.apk
